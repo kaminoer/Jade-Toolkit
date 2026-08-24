@@ -1,7 +1,8 @@
 <img width="1656" height="869" alt="toolkit" src="https://github.com/user-attachments/assets/9edb6142-4506-4ce4-bfcd-6ac36479b5d6" />
 
+This is a C++ AI rewrite of my Python toolkit.
 > [!CAUTION]
-> This tool IS NOT FULLY WORKING. Expect things to break. It's provided as-is. Always backup your game first.
+> This tool IS NOT FULLY WORKING. Expect things to break. It's provided as-is. Always backup your game first. Texture and mesh swap should mostly work. Level editor and other tabs aren't fully ported yet.
 
 Build:
 `cmake --build .\jade_native\build-agent-collision --target jade_gui --clean-first --parallel 2`
