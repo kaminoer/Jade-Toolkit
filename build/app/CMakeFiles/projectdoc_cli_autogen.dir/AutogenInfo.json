@@ -1,0 +1,186 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build/app/projectdoc_cli_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build/app",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/CMakeLists.txt",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeEarlyPolicyHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtInstallPaths.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6TargetsPrecheck.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtFeature.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/CheckCXXCompilerFlag.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicAndroidHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicGitHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers_v2.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomAttributionHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomBuildToolHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomCommonGenerationHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomCpeHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomCycloneDXHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomDocumentNamespaceHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomDepHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomExternalReferenceHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomFileHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomGenerationCycloneDXHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomLicenseHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomOpsHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomPurlHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomPythonHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomQtEntityHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomRelationshipHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomSystemDepHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicWindowsHelpers.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsConfigVersion.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsConfigVersionImpl.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsDependencies.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfigVersion.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfigVersionImpl.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLDependencies.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/FindVulkan.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageMessage.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageMessage.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLTargetsPrecheck.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLTargets.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLTargets-relwithdebinfo.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLAdditionalTargetInfo.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLVersionlessAliasTargets.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsTargetsPrecheck.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsTargets.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsTargets-relwithdebinfo.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsAdditionalTargetInfo.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsVersionlessAliasTargets.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/windows/app.exe.manifest.in"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build/app/projectdoc_cli_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "projectdoc_cli_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/ProjectDoc.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_ProjectDoc.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build/app/projectdoc_cli_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build/app/projectdoc_cli_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"MINGW_HAS_SECURE_API=1",
+		"QT_CORE_LIB",
+		"QT_NO_DEBUG",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/include",
+		"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/third_party",
+		"C:/Qt/6.11.1/mingw_64/include/QtCore",
+		"C:/Qt/6.11.1/mingw_64/include",
+		"C:/Qt/6.11.1/mingw_64/mkspecs/win32-g++",
+		"J:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++",
+		"J:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/x86_64-w64-mingw32",
+		"J:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/backward",
+		"J:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0/include",
+		"J:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed",
+		"J:/w64devkit/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"J:/w64devkit/bin/g++.exe",
+		"-std=c++17",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build/app/projectdoc_cli_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build/app/jade_gui_autogen/mocs_compilation.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 16,
+	"PARSE_CACHE_FILE" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build/app/CMakeFiles/projectdoc_cli_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/6.11.1/mingw_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 11,
+	"SETTINGS_FILE" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build/app/CMakeFiles/projectdoc_cli_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/ProjectDoc.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/projectdoc_cli.cpp",
+			"Mu",
+			null
+		]
+	],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,1 @@
+ libjade.a liblzo999.a -lwindowscodecs -lole32 -lshell32 libquicktex.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

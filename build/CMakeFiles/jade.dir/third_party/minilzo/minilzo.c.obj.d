@@ -1,0 +1,20 @@
+CMakeFiles/jade.dir/third_party/minilzo/minilzo.c.obj: \
+ C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/third_party/minilzo/minilzo.c \
+ J:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
+ J:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
+ J:/w64devkit/x86_64-w64-mingw32/include/limits.h \
+ J:/w64devkit/x86_64-w64-mingw32/include/crtdefs.h \
+ J:/w64devkit/x86_64-w64-mingw32/include/corecrt.h \
+ J:/w64devkit/x86_64-w64-mingw32/include/_mingw.h \
+ J:/w64devkit/x86_64-w64-mingw32/include/_mingw_mac.h \
+ J:/w64devkit/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ J:/w64devkit/x86_64-w64-mingw32/include/vadefs.h \
+ J:/w64devkit/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ J:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
+ J:/w64devkit/x86_64-w64-mingw32/include/stddef.h \
+ C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/third_party/minilzo/minilzo.h \
+ C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/third_party/minilzo/lzodefs.h \
+ C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/third_party/minilzo/lzoconf.h \
+ J:/w64devkit/x86_64-w64-mingw32/include/string.h \
+ J:/w64devkit/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ J:/w64devkit/x86_64-w64-mingw32/include/assert.h

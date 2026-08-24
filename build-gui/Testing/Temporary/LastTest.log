@@ -1,0 +1,1792 @@
+Start testing: Aug 24 15:14 Œrodkowoeuropejski czas letni
+----------------------------------------------------------
+1/94 Testing: unit_bigfile
+1/94 Test: unit_bigfile
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_bigfile.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_bigfile" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_bigfile: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_bigfile" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_bigfile" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/94 Testing: unit_bigfile_write
+2/94 Test: unit_bigfile_write
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_bigfile_write.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_bigfile_write" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_bigfile_write: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_bigfile_write" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_bigfile_write" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/94 Testing: unit_zonetx
+3/94 Test: unit_zonetx
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_zonetx.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_zonetx" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_zonetx: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_zonetx" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_zonetx" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/94 Testing: unit_jtmod
+4/94 Test: unit_jtmod
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_jtmod.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_jtmod" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_jtmod: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_jtmod" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_jtmod" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/94 Testing: unit_jtmod_engine
+5/94 Test: unit_jtmod_engine
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_jtmod_engine.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_jtmod_engine" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_jtmod_engine: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_jtmod_engine" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_jtmod_engine" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/94 Testing: unit_compression
+6/94 Test: unit_compression
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_compression.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_compression" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_compression: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_compression" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_compression" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/94 Testing: unit_compress
+7/94 Test: unit_compress
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_compress.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_compress" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_compress
+  ok   empty            hdr=1 term=1 data=1  (in=0 comp=8)
+  ok   repetitive-1k    hdr=1 term=1 data=1  (in=1000 comp=48)
+  ok   random-5k        hdr=1 term=1 data=1  (in=5000 comp=5016)
+  ok   one-block        hdr=1 term=1 data=1  (in=131072 comp=1377)
+  ok   multi-block      hdr=1 term=1 data=1  (in=262921 comp=8476)
+  ok   zeros-3block     hdr=1 term=1 data=1  (in=393216 comp=1811)
+
+ALL PASS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_compress" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_compress" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/94 Testing: unit_texture
+8/94 Test: unit_texture
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_texture.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_texture" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_texture: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_texture" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_texture" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/94 Testing: unit_subentry
+9/94 Test: unit_subentry
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_subentry.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_subentry" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_subentry: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_subentry" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_subentry" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/94 Testing: unit_geometry
+10/94 Test: unit_geometry
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_geometry.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_geometry" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_geometry: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_geometry" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_geometry" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/94 Testing: unit_collision
+11/94 Test: unit_collision
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_collision.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_collision" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_collision: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_collision" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_collision" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/94 Testing: unit_collision_follow
+12/94 Test: unit_collision_follow
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_collision_follow.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_collision_follow" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_collision_follow: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_collision_follow" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_collision_follow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/94 Testing: unit_light
+13/94 Test: unit_light
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_light.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_light" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_light: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_light" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_light" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/94 Testing: unit_material
+14/94 Test: unit_material
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_material.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_material" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_material: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_material" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_material" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/94 Testing: unit_gao
+15/94 Test: unit_gao
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_gao.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_gao" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_gao: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_gao" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_gao" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/94 Testing: unit_objkind
+16/94 Test: unit_objkind
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_objkind.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_objkind" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_objkind: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_objkind" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_objkind" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/94 Testing: unit_wolinfo
+17/94 Test: unit_wolinfo
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_wolinfo.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_wolinfo" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_wolinfo: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_wolinfo" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_wolinfo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/94 Testing: unit_skeleton
+18/94 Test: unit_skeleton
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_skeleton.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_skeleton" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_skeleton: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_skeleton" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_skeleton" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/94 Testing: unit_rli
+19/94 Test: unit_rli
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_rli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_rli" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_rli: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_rli" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_rli" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/94 Testing: unit_assetidx
+20/94 Test: unit_assetidx
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_assetidx.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_assetidx" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_assetidx: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_assetidx" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_assetidx" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/94 Testing: unit_cobwrite
+21/94 Test: unit_cobwrite
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_cobwrite.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_cobwrite" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_cobwrite: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_cobwrite" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_cobwrite" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/94 Testing: unit_texwrite
+22/94 Test: unit_texwrite
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_texwrite.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_texwrite" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_texwrite: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_texwrite" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_texwrite" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/94 Testing: unit_dxtenc
+23/94 Test: unit_dxtenc
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_dxtenc.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_dxtenc" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_dxtenc: OK
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"unit_dxtenc" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_dxtenc" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/94 Testing: unit_rliwrite
+24/94 Test: unit_rliwrite
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_rliwrite.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_rliwrite" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_rliwrite: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_rliwrite" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_rliwrite" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/94 Testing: unit_lightwrite
+25/94 Test: unit_lightwrite
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_lightwrite.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_lightwrite" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_lightwrite: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_lightwrite" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_lightwrite" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/94 Testing: unit_matresolve
+26/94 Test: unit_matresolve
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_matresolve.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_matresolve" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_matresolve: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_matresolve" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_matresolve" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/94 Testing: unit_gaorli
+27/94 Test: unit_gaorli
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_gaorli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_gaorli" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_gaorli: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_gaorli" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_gaorli" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/94 Testing: unit_keyalloc
+28/94 Test: unit_keyalloc
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_keyalloc.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_keyalloc" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_keyalloc: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_keyalloc" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_keyalloc" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/94 Testing: unit_keys
+29/94 Test: unit_keys
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_keys.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_keys" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_keys: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_keys" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_keys" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/94 Testing: unit_patcher
+30/94 Test: unit_patcher
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_patcher.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_patcher" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_patcher: OK
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"unit_patcher" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_patcher" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/94 Testing: unit_rescale
+31/94 Test: unit_rescale
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_rescale.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_rescale" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_rescale: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_rescale" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_rescale" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/94 Testing: unit_swap
+32/94 Test: unit_swap
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_swap.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_swap" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_swap: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_swap" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_swap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/94 Testing: unit_json
+33/94 Test: unit_json
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_json.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_json" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_json: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_json" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_json" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/94 Testing: unit_prefab
+34/94 Test: unit_prefab
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_prefab.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_prefab" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_prefab: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_prefab" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_prefab" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/94 Testing: unit_gltfgeo
+35/94 Test: unit_gltfgeo
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_gltfgeo.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_gltfgeo" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_gltfgeo: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_gltfgeo" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_gltfgeo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/94 Testing: unit_gltf
+36/94 Test: unit_gltf
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_gltf.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_gltf" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_gltf: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_gltf" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_gltf" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/94 Testing: unit_jgao
+37/94 Test: unit_jgao
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_jgao.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_jgao" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_jgao: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_jgao" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_jgao" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/94 Testing: unit_jadeobject
+38/94 Test: unit_jadeobject
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_jadeobject.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_jadeobject" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_jadeobject: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_jadeobject" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_jadeobject" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/94 Testing: unit_wowstream
+39/94 Test: unit_wowstream
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_wowstream.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_wowstream" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_wowstream: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_wowstream" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_wowstream" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/94 Testing: unit_exporter
+40/94 Test: unit_exporter
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_exporter.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_exporter" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_exporter: OK
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"unit_exporter" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_exporter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/94 Testing: unit_deploy
+41/94 Test: unit_deploy
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/unit_deploy.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"unit_deploy" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"unit_deploy" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"unit_deploy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/94 Testing: jgao_python_parity
+42/94 Test: jgao_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/jgao_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/jgao_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"jgao_python_parity" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+jgao_check: OK (GLBs 1394/3276 B, JGAO 517 B byte-identical)
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Passed.
+"jgao_python_parity" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"jgao_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/94 Testing: jgao_retail_python_parity
+43/94 Test: jgao_retail_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/jgao_retail_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/jgao_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"jgao_retail_python_parity" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+JGAO prince_ORG.bf: entry=13 gao=0x1A002763 textures=2 formats=[0, 1] palette=True keyed=True bones=22 accessors=7
+JGAO prince2_ORG.bf: entry=47 gao=0x1F000D0F textures=2 formats=[1, 1] palette=True keyed=True bones=22 accessors=13
+JGAO pop3_ORG — kopia.bf: entry=140 gao=0x3100D98E textures=12 formats=[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1] palette=True keyed=True bones=43 accessors=18
+contextual JGAO retail parity: PASS (3 archive(s))
+<end of output>
+Test time =   0.95 sec
+----------------------------------------------------------
+Test Passed.
+"jgao_retail_python_parity" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"jgao_retail_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/94 Testing: influence3_python_parity
+44/94 Test: influence3_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/influence3_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/glb_geo.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"influence3_python_parity" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+influence3_check: OK (678 stride-52 + 714 stride-64 byte-identical bytes; Unicode paths)
+<end of output>
+Test time =   0.16 sec
+----------------------------------------------------------
+Test Passed.
+"influence3_python_parity" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"influence3_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/94 Testing: image_python_parity
+45/94 Test: image_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/image_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/image_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"image_python_parity" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+image_check: OK (decoders; Lanczos/thumbnail exact; PAL8 mipmaps exact)
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"image_python_parity" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"image_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/94 Testing: prefab_python_parity
+46/94 Test: prefab_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/prefab_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/prefab_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"prefab_python_parity" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+prefab_check: OK (JSON round-trip and AddObject bridges match Python)
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"prefab_python_parity" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"prefab_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/94 Testing: model_import_python_parity
+47/94 Test: model_import_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/model_import_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/model_import_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"model_import_python_parity" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+model_import_check: OK (DAE/FBX/glTF/GLB/OBJ/STL/PLY byte-identical; Unicode paths)
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"model_import_python_parity" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"model_import_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/94 Testing: mesh_swap_retail_python_parity
+48/94 Test: mesh_swap_retail_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/mesh_swap_retail_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/glb_swap.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"mesh_swap_retail_python_parity" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+--- prince_ORG.bf ---
+copying archive twice into C:\Users\test\AppData\Local\Temp\swapchk_da4ra71t\zamiana â€” Å»Ã³Å‚Ä‡_æ—¥æœ¬ ...
+
+swaps: 1 stats-identical, 0 stats-diff, 0 fail-both, 0 one-sided
+entries: 1 decompressed-identical, 0 diff; archives identical
+--- prince2_ORG.bf ---
+copying archive twice into C:\Users\test\AppData\Local\Temp\swapchk_jgievnjt\zamiana â€” Å»Ã³Å‚Ä‡_æ—¥æœ¬ ...
+
+swaps: 1 stats-identical, 0 stats-diff, 0 fail-both, 0 one-sided
+entries: 1 decompressed-identical, 0 diff; archives identical
+--- pop3_ORG â€” kopia.bf ---
+copying archive twice into C:\Users\test\AppData\Local\Temp\swapchk_dswbz2v4\zamiana â€” Å»Ã³Å‚Ä‡_æ—¥æœ¬ ...
+
+swaps: 1 stats-identical, 0 stats-diff, 0 fail-both, 0 one-sided
+entries: 1 decompressed-identical, 0 diff; archives identical
+direct mesh-swap retail parity: PASS (3 archives; Unicode BF/GLB paths)
+<end of output>
+Test time =   2.66 sec
+----------------------------------------------------------
+Test Passed.
+"mesh_swap_retail_python_parity" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"mesh_swap_retail_python_parity" time elapsed: 00:00:02
+----------------------------------------------------------
+
+49/94 Testing: collision_follow_python_parity
+49/94 Test: collision_follow_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/collision_follow_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/collision_follow_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"collision_follow_python_parity" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+collision_follow_check: OK (shared-COB carve byte-identical)
+<end of output>
+Test time =   0.16 sec
+----------------------------------------------------------
+Test Passed.
+"collision_follow_python_parity" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"collision_follow_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/94 Testing: collision_follow_retail_python_parity
+50/94 Test: collision_follow_retail_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/collision_follow_retail_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/collision_follow_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"collision_follow_retail_python_parity" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+collision-follow retail parity: PASS entry=71 fountain=0x400096F9 boulet=0x4000326D room_cob=0x2200B5B9
+<end of output>
+Test time =   0.32 sec
+----------------------------------------------------------
+Test Passed.
+"collision_follow_retail_python_parity" end time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+"collision_follow_retail_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/94 Testing: placement_retail_python_parity
+51/94 Test: placement_retail_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/placement_retail_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/placer_apply.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"placement_retail_python_parity" start time: Aug 24 15:14 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+--- prince_ORG.bf ---
+  plan entry 5 strict=False: OK (entry=5 added=10 subs=17 reg=10 orig=1019900 new=959694...) arch=identical
+  plan entry 5 strict=True: OK (entry=5 added=10 subs=17 reg=10 orig=1019900 new=959694...) arch=identical
+  replace entry 5: OK tgt=220054c3 src=22005b3a scaled (entry=5 added=1 subs=2 reg=1 orig=1019900 new=917831 in...) arch=identical
+  replace-model: OK arch=identical
+  replace-jgao: OK arch=identical
+  xbin chain: 5 entries identical (src entry 10 gao 2e004d52)
+  xbin placement: OK tgt entry 5 (APPLY dec=1319464 crc=88a8614f wl=22004955 reg=1 adds=6...)
+  binrep: using body-visual entries 10 <- 13
+  binrep 10<-13: OK (entry=10 orig=73724 new=70445 inplace=1 replaced=1) arch=identical
+
+3/3 entries identical, 0 diff; plan OK; replace OK; xbin OK; binrep OK
+--- prince2_ORG.bf ---
+  plan entry 7 strict=False: both-reject (ERROR clone-with-collision: no triangle-shape COB found in the target bin to extend. Eithe)
+  plan entry 7 strict=True: both-reject (ERROR clone-with-collision: no triangle-shape COB found in the target bin to extend. Eithe)
+  plan entry 17 strict=False: OK (entry=17 added=10 subs=17 reg=10 orig=2050044 new=18319...) arch=identical
+  plan entry 17 strict=True: OK (entry=17 added=10 subs=17 reg=10 orig=2050044 new=18319...) arch=identical
+  replace entry 7: OK tgt=01002188 src=01004c8f scaled (entry=7 added=1 subs=2 reg=1 orig=40956 new=33437 inpla...) arch=identical
+  replace-model: OK arch=identical
+  replace-jgao: OK arch=identical
+  xbin chain: 62 entries identical (src entry 17 gao 0100b156)
+  xbin placement: OK tgt entry 7 (APPLY dec=1045134 crc=48cad842 wl=01002182 reg=1 adds=63...)
+  binrep: using body-visual entries 47 <- 167
+  binrep 47<-167: OK (entry=47 orig=5081084 new=4427927 inplace=1 replaced=1) arch=identical
+
+3/3 entries identical, 0 diff; plan OK; replace OK; xbin OK; binrep OK
+--- pop3_ORG — kopia.bf ---
+  plan entry 8 strict=False: both-reject (ERROR clone-with-collision: no triangle-shape COB found in the target bin to extend. Eithe)
+  plan entry 8 strict=True: both-reject (ERROR clone-with-collision: no triangle-shape COB found in the target bin to extend. Eithe)
+  plan entry 19 strict=False: both-reject (ERROR clone-with-collision: no triangle-shape COB found in the target bin to extend. Eithe)
+  plan entry 19 strict=True: both-reject (ERROR clone-with-collision: no triangle-shape COB found in the target bin to extend. Eithe)
+  plan entry 30 strict=False: both-reject (ERROR clone-with-collision: no triangle-shape COB found in the target bin to extend. Eithe)
+  plan entry 30 strict=True: both-reject (ERROR clone-with-collision: no triangle-shape COB found in the target bin to extend. Eithe)
+  plan entry 41 strict=False: both-reject (ERROR clone-with-collision: no triangle-shape COB found in the target bin to extend. Eithe)
+  plan entry 41 strict=True: both-reject (ERROR clone-with-collision: no triangle-shape COB found in the target bin to extend. Eithe)
+  plan entry 52 strict=False: both-reject (ERROR clone-with-collision: no triangle-shape COB found in the target bin to extend. Eithe)
+  plan entry 52 strict=True: both-reject (ERROR clone-with-collision: no triangle-shape COB found in the target bin to extend. Eithe)
+  plan entry 63 strict=False: both-reject (ERROR clone-with-collision: no triangle-shape COB found in the target bin to extend. Eithe)
+  plan entry 63 strict=True: both-reject (ERROR clone-with-collision: no triangle-shape COB found in the target bin to extend. Eithe)
+  plan entry 74 strict=False: both-reject (ERROR clone-with-collision: no triangle-shape COB found in the target bin to extend. Eithe)
+  plan entry 74 strict=True: both-reject (ERROR clone-with-collision: no triangle-shape COB found in the target bin to extend. Eithe)
+  plan entry 85 strict=False: OK (entry=85 added=10 subs=17 reg=10 orig=155644 new=138588...) arch=identical
+  plan entry 85 strict=True: OK (entry=85 added=10 subs=17 reg=10 orig=155644 new=138588...) arch=identical
+  replace entry 19: OK tgt=0e00101a src=0e00101b scaled (entry=19 added=1 subs=2 reg=1 orig=221180 new=189256 in...) arch=identical
+  replace-model: OK arch=identical
+  replace-jgao: OK arch=identical
+  xbin chain: 3 entries identical (src entry 19 gao 0e00101a)
+  xbin placement: OK tgt entry 8 (APPLY dec=55966 crc=d3379ed6 wl=0309e211 reg=1 adds=4...)
+  binrep: using body-visual entries 250 <- 261
+  binrep 250<-261: OK (entry=250 orig=100348 new=89396 inplace=1 replaced=1) arch=identical
+
+3/3 entries identical, 0 diff; plan OK; replace OK; xbin OK; binrep OK
+placement retail parity: PASS (3 archive(s))
+<end of output>
+Test time =  48.84 sec
+----------------------------------------------------------
+Test Passed.
+"placement_retail_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"placement_retail_python_parity" time elapsed: 00:00:48
+----------------------------------------------------------
+
+52/94 Testing: patcher_python_parity
+52/94 Test: patcher_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/patcher_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/patcher_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"patcher_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+  bgra_auto: OK (264 bytes)
+  dxt1_auto: OK (160 bytes)
+  dxt5_auto: OK (168 bytes)
+  pal8_upgrade: OK (172 bytes)
+  grey4_upgrade: OK (176 bytes)
+  pal8_forced: OK (186 bytes)
+  dxt5_to_dxt1: OK (156 bytes)
+  bad_encode: OK (264 bytes)
+  stub_only: OK (72 bytes)
+  missing_key: OK (200 bytes)
+patcher parity: OK (10 cases)
+<end of output>
+Test time =   0.37 sec
+----------------------------------------------------------
+Test Passed.
+"patcher_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"patcher_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/94 Testing: patcher_retail_python_parity
+53/94 Test: patcher_retail_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/patcher_retail_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/patcher_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"patcher_retail_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+PASS prince_ORG.bf: entry=5 tex=0x1b001f40 fmt=7 size_grs=1 archive=410720256B
+PASS prince2_ORG.bf: entry=7 tex=0x01004f3f fmt=7 size_grs=1 archive=639741952B
+PASS pop3_ORG — kopia.bf: entry=8 tex=0x30014ad9 fmt=7 size_grs=1 archive=497424384B
+patcher retail parity: PASS (3 archive(s))
+<end of output>
+Test time =   4.68 sec
+----------------------------------------------------------
+Test Passed.
+"patcher_retail_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"patcher_retail_python_parity" time elapsed: 00:00:04
+----------------------------------------------------------
+
+54/94 Testing: patcher_retail_model_scene_python_parity
+54/94 Test: patcher_retail_model_scene_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/patcher_retail_model_scene_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/patcher_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"patcher_retail_model_scene_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+PASS prince_ORG.bf: scene_entry=5 geo=0x220054e8/1104v model_entry=10 geo=0x2e004d51/16v size_grs=2 archive=410720256B
+PASS prince2_ORG.bf: scene_entry=7 geo=0x0100217b/88v model_entry=17 geo=0x0100b12c/112v size_grs=2 archive=639741952B
+PASS pop3_ORG — kopia.bf: scene_entry=8 geo=0xef0143d5/20v model_entry=19 geo=0x0e001026/39v size_grs=2 archive=497424384B
+patcher retail model/scene parity: PASS (3 archive(s))
+<end of output>
+Test time =   7.71 sec
+----------------------------------------------------------
+Test Passed.
+"patcher_retail_model_scene_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"patcher_retail_model_scene_python_parity" time elapsed: 00:00:07
+----------------------------------------------------------
+
+55/94 Testing: patchmodel_retail_python_parity
+55/94 Test: patchmodel_retail_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/patchmodel_retail_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/patchmodel_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"patchmodel_retail_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+--- prince_ORG.bf ---
+targets: skinned A 1a002722 / B 1a002752 (22/22 bones) in ff02b4f9; static 220054e8 in ff024957
+  roundtrip-nochange: OK (6964422 B identical)
+  binary-skinned: OK (6964422 B identical)
+  binary-static: OK (1301891 B identical)
+  colors-static: OK (1306307 B identical)
+  foreign-auto: OK (6969302 B identical)
+  foreign-mapped: OK (6969230 B identical)
+  keep-skin: OK (6960470 B identical)
+  skinless-rigid: OK (7031714 B identical)
+  skinless-autorig: OK (7044962 B identical)
+  foreign-diagnose: OK (6969302 B identical)
+  analyze: OK (22 joints / 22 bones, all dialog fields identical)
+  validate_glb_skin: OK (1 warning(s))
+  scan_changes: OK (3 change(s) identical)
+  hier-export: OK (8 accessors, 1 texture(s), JSON semantics + content identical)
+PASS
+--- prince2_ORG.bf ---
+targets: skinned A 31007a0e / B 310079c7 (16/16 bones) in ff04015c; static 0100217b in ff012185
+  roundtrip-nochange: OK (9219338 B identical)
+  binary-skinned: OK (9219338 B identical)
+  binary-static: OK (67790 B identical)
+  colors-static: OK (68142 B identical)
+  foreign-auto: OK (9194354 B identical)
+  foreign-mapped: OK (9194326 B identical)
+  keep-skin: OK (both no-change)
+  skinless-rigid: OK (9186544 B identical)
+  skinless-autorig: OK (9187600 B identical)
+  foreign-diagnose: OK (9194354 B identical)
+  analyze: OK (16 joints / 16 bones, all dialog fields identical)
+  validate_glb_skin: OK (1 warning(s))
+  scan_changes: OK (3 change(s) identical)
+  hier-export: OK (8 accessors, 2 texture(s), JSON semantics + content identical)
+PASS
+--- pop3_ORG — kopia.bf ---
+targets: skinned A 42002e1c / B 42002e93 (35/38 bones) in ff092a4a; static 0e001027 in ff05c7fe
+  roundtrip-nochange: OK (3511881 B identical)
+  binary-skinned: OK (3511881 B identical)
+  binary-static: OK (438155 B identical)
+  colors-static: OK (438427 B identical)
+  foreign-auto: OK (3494167 B identical)
+  foreign-mapped: OK (3494139 B identical)
+  keep-skin: OK (3484007 B identical)
+  skinless-rigid: OK (3335185 B identical)
+  skinless-autorig: OK (3336001 B identical)
+  foreign-diagnose: OK (3494167 B identical)
+  analyze: OK (38 joints / 35 bones, all dialog fields identical)
+  validate_glb_skin: OK (1 warning(s))
+  scan_changes: OK (3 change(s) identical)
+  hier-export: OK (11 accessors, 4 texture(s), JSON semantics + content identical)
+PASS
+patchmodel retail parity: PASS (3 archive(s))
+<end of output>
+Test time =   5.52 sec
+----------------------------------------------------------
+Test Passed.
+"patchmodel_retail_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"patchmodel_retail_python_parity" time elapsed: 00:00:05
+----------------------------------------------------------
+
+56/94 Testing: patchmodel_stride64_python_parity
+56/94 Test: patchmodel_stride64_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/patchmodel_stride64_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/patchmodel_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"patchmodel_stride64_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+patchmodel stride-64 parity: PASS (WW Sandwraith_For_Load_wow_ff0f0f72.bin, GEO 0x1F000E82; foreign 1107/1107 + round-trip 828/1107 base/cooked vertices)
+<end of output>
+Test time =   0.84 sec
+----------------------------------------------------------
+Test Passed.
+"patchmodel_stride64_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"patchmodel_stride64_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/94 Testing: register_resource_python_parity
+57/94 Test: register_resource_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/register_resource_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/register_resource_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"register_resource_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+  trailing: OK (1 problem(s))
+  stray_r0_slot: OK (1 problem(s))
+  wrong_gog: OK (1 problem(s))
+register-resource parity: OK (592 bytes, donor 0x13000103)
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Passed.
+"register_resource_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"register_resource_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/94 Testing: register_resource_retail_python_parity
+58/94 Test: register_resource_retail_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/register_resource_retail_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/register_resource_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"register_resource_retail_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+--- prince_ORG.bf ---
+  entry=12 0102_Rempart_Couloir_wow_ff02b54d.bin GAO=0x4000DB01 TEX=0x600001CE fmt=5 sidecar=1072 bytes
+--- prince2_ORG.bf ---
+  entry=47 010_DeckPart2_wow_ff04015c.bin GAO=0x630087C9 TEX=0x0D0A8F7B fmt=5 sidecar=8708 bytes
+--- pop3_ORG — kopia.bf ---
+  entry=107 810_Fake_Tower_P01_wow_ff087a7c.bin GAO=0x08007A80 TEX=0x5B002AE5 fmt=7 sidecar=35058 bytes
+register-resource retail parity: PASS (3 archive(s))
+<end of output>
+Test time =   0.62 sec
+----------------------------------------------------------
+Test Passed.
+"register_resource_retail_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"register_resource_retail_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/94 Testing: bytepatch_python_parity
+59/94 Test: bytepatch_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/bytepatch_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/bytepatch_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"bytepatch_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+  grow_cross_chunk: OK (359119 bytes, 4/3 segs)
+  no_change: OK (263 bytes, 0/0 segs)
+  shrink: OK (31327 bytes, 2/3 segs)
+bytepatch parity: OK (codec/diff/image/apply/classify/footer/names)
+<end of output>
+Test time =   0.75 sec
+----------------------------------------------------------
+Test Passed.
+"bytepatch_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"bytepatch_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/94 Testing: gameprofiles_python_parity
+60/94 Test: gameprofiles_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/gameprofiles_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/bytepatch_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"gameprofiles_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+gameprofiles_check: 27 profile/detection/name outcomes exact
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"gameprofiles_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"gameprofiles_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/94 Testing: character_swap_workflow_python_parity
+61/94 Test: character_swap_workflow_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/character_swap_workflow_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/charswap_cli.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/lzo_compress_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"character_swap_workflow_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+character_swap_workflow_check: 3 manifest failures + complete path/image/log/backup-once/archive workflow exact
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"character_swap_workflow_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"character_swap_workflow_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/94 Testing: character_swap_retail_python_parity
+62/94 Test: character_swap_retail_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/charswap_retail_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/charswap_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"character_swap_retail_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+--- prince_ORG.bf ---
+entry 5: OK geo=220054e8 tex=1b001978 (64x64->128x128) stub=22004957 deccrc=1c7b612e arch=identical
+PASS
+--- prince2_ORG.bf ---
+entry 7: OK geo=0100217b tex=01004f3f (128x128->256x256) stub=01002185 deccrc=ec600891 arch=identical
+PASS
+--- pop3_ORG — kopia.bf ---
+entry 8: OK geo=ef0143d5 tex=0a00088c (128x128->256x256) stub=0309e214 deccrc=ba2c43aa arch=identical
+PASS
+character-swap retail parity: PASS (3 archive(s))
+<end of output>
+Test time =   3.25 sec
+----------------------------------------------------------
+Test Passed.
+"character_swap_retail_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"character_swap_retail_python_parity" time elapsed: 00:00:03
+----------------------------------------------------------
+
+63/94 Testing: texture_upscale_workflow_python_parity
+63/94 Test: texture_upscale_workflow_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/texture_upscale_workflow_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/texup_cli.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/lzo_compress_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"texture_upscale_workflow_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+texture_upscale_workflow_check: single + batch image-path, cookie-scan, stub, skip, log, backup, and archive bytes exact
+<end of output>
+Test time =   0.23 sec
+----------------------------------------------------------
+Test Passed.
+"texture_upscale_workflow_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"texture_upscale_workflow_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/94 Testing: texture_upscale_retail_python_parity
+64/94 Test: texture_upscale_retail_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/texture_upscale_retail_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/texup_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"texture_upscale_retail_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+--- prince_ORG.bf ---
+  entry 5: OK key=1b001978 64x64->128x128 fmt5->fmt5 stubs=1 deccrc=0efab9aa arch=identical
+  batch entry 5: OK 3 textures + 1 skip, deccrc=db73726c arch=identical
+
+1/1 entries identical, 0 diff; batch OK
+--- prince2_ORG.bf ---
+  entry 7: OK key=01004f3f 128x128->256x256 fmt7->fmt7 stubs=1 deccrc=7fec9f23 arch=identical
+  batch entry 7: OK 2 textures + 1 skip, deccrc=664c6e0e arch=identical
+
+1/1 entries identical, 0 diff; batch OK
+--- pop3_ORG — kopia.bf ---
+  entry 8: OK key=0a00088c 128x128->256x256 fmt1->fmt7 stubs=1 deccrc=c0cebe62 arch=identical
+  batch entry 8: OK 2 textures + 1 skip, deccrc=b91f5d61 arch=identical
+
+1/1 entries identical, 0 diff; batch OK
+texture-upscale retail parity: PASS (3 archive(s))
+<end of output>
+Test time =   6.30 sec
+----------------------------------------------------------
+Test Passed.
+"texture_upscale_retail_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"texture_upscale_retail_python_parity" time elapsed: 00:00:06
+----------------------------------------------------------
+
+65/94 Testing: loadsim_workflow_python_parity
+65/94 Test: loadsim_workflow_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/loadsim_workflow_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/loadsim_cli.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/lzo_compress_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"loadsim_workflow_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+loadsim_workflow_check: report, progress, protocol-4 read, protocol-2 write, cache hit, and stale rebuild exact
+<end of output>
+Test time =   0.15 sec
+----------------------------------------------------------
+Test Passed.
+"loadsim_workflow_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"loadsim_workflow_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/94 Testing: rli_rescale_workflow_python_parity
+66/94 Test: rli_rescale_workflow_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/rli_rescale_workflow_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/rli_rescale_cli.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/lzo_compress_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"rli_rescale_workflow_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+rli_rescale_workflow_check: OK
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"rli_rescale_workflow_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"rli_rescale_workflow_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/94 Testing: levelblend_workflow_python_parity
+67/94 Test: levelblend_workflow_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/levelblend_workflow_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/levelblend_cli.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/lzo_compress_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"levelblend_workflow_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+levelblend_workflow_check: OK
+<end of output>
+Test time =   0.32 sec
+----------------------------------------------------------
+Test Passed.
+"levelblend_workflow_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"levelblend_workflow_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/94 Testing: levelblend_retail_python_parity
+68/94 Test: levelblend_retail_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/levelblend_retail_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/levelblend_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"levelblend_retail_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+--- prince_ORG.bf / 2101 / levelexport_check.py ---
+entry 5: py exported 10 objects, 7 lights, 2051876 B
+cpp: EXPORT objects=10 lights=7 types=Omni:7,Ambient:2 exported=10 (4414504 B)
+snapshots identical (nodes, accessor bytes, materials, decoded textures, lights, extras)
+PASS
+--- prince_ORG.bf / 2101 / levelblend_check.py ---
+entry 5: exported 2051876 B GLB
+OK: 10 GAO updates, applied to 10 GAO copies across 1 bins, archives identical
+PASS
+--- prince2_ORG.bf / 055_ / levelexport_check.py ---
+entry 277: py exported 97 objects, 198 lights, 5511044 B
+cpp: EXPORT objects=97 lights=198 types=Omni:194,Spot:4,Ambient:3 exported=97 (8748920 B)
+snapshots identical (nodes, accessor bytes, materials, decoded textures, lights, extras)
+PASS
+--- prince2_ORG.bf / 055_ / levelblend_check.py ---
+entry 277: exported 5511044 B GLB
+OK: 97 GAO updates, applied to 97 GAO copies across 1 bins, archives identical
+PASS
+--- pop3_ORG — kopia.bf / 500 / levelexport_check.py ---
+entry 998: py exported 6 objects, 35 lights, 1394484 B
+cpp: EXPORT objects=6 lights=35 types=Omni:35,Ambient:2 exported=6 (3319148 B)
+snapshots identical (nodes, accessor bytes, materials, decoded textures, lights, extras)
+PASS
+--- pop3_ORG — kopia.bf / 500 / levelblend_check.py ---
+entry 998: exported 1394484 B GLB
+OK: 6 GAO updates, applied to 6 GAO copies across 1 bins, archives identical
+PASS
+level-blender retail parity: PASS (3 archive(s))
+<end of output>
+Test time =  12.70 sec
+----------------------------------------------------------
+Test Passed.
+"levelblend_retail_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"levelblend_retail_python_parity" time elapsed: 00:00:12
+----------------------------------------------------------
+
+69/94 Testing: exporter_workflow_python_parity
+69/94 Test: exporter_workflow_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/exporter_workflow_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/exporter_cli.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/lzo_compress_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"exporter_workflow_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+exporter_workflow_check: OK
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"exporter_workflow_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"exporter_workflow_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/94 Testing: jtmod_metadata_python_parity
+70/94 Test: jtmod_metadata_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/jtmod_metadata_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/project_cli.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/../popsot.bf"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"jtmod_metadata_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+jtmod metadata/card image parity: OK
+<end of output>
+Test time =   0.28 sec
+----------------------------------------------------------
+Test Passed.
+"jtmod_metadata_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"jtmod_metadata_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/94 Testing: exporter_surface_python_parity
+71/94 Test: exporter_surface_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/exporter_surface_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/exporter_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"exporter_surface_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+exporter_surface_check: presets, groups, and scan match Python
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Passed.
+"exporter_surface_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"exporter_surface_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/94 Testing: scene_builder_python_parity
+72/94 Test: scene_builder_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/scene_builder_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/scene_builder_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"scene_builder_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+GLB bytes=4380
+scene_builder_check: generic static scene matches Python under Unicode paths
+<end of output>
+Test time =   0.17 sec
+----------------------------------------------------------
+Test Passed.
+"scene_builder_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"scene_builder_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/94 Testing: scene_export_python_parity
+73/94 Test: scene_export_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/scene_export_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/exporter_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"scene_export_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+scene_export_check: static scene artifact and manifest match Python
+<end of output>
+Test time =   0.22 sec
+----------------------------------------------------------
+Test Passed.
+"scene_export_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"scene_export_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/94 Testing: character_bundle_retail_python_parity
+74/94 Test: character_bundle_retail_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/character_bundle_retail_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/exporter_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"character_bundle_retail_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+character-bundle retail parity: PASS (WW entry 2347; 14 meshes, 19 materials, 6 textures, 83 bones; Unicode paths)
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"character_bundle_retail_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"character_bundle_retail_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+75/94 Testing: deploy_python_parity
+75/94 Test: deploy_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/deploy_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/deploy_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"deploy_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+deploy parity: backup-once, overwrite, metadata, restore, errors OK
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"deploy_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"deploy_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+76/94 Testing: loa_validate_python_parity
+76/94 Test: loa_validate_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/loa_validate_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/loa_validate_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"loa_validate_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+LOA parity: refs, filtering, missing/backward deps, errors OK
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"loa_validate_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"loa_validate_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+77/94 Testing: project_verify_python_parity
+77/94 Test: project_verify_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/project_verify_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/project_cli.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/lzo_compress_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"project_verify_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+build: exact progress/report/failure/default-name + semantic hooks
+happy: logs=4 issues=0 exact
+corrupt: logs=1 issues=5 exact
+live validation: Python-exact cheap issue set; deep checks gated
+project_verify_check: OK
+<end of output>
+Test time =   0.37 sec
+----------------------------------------------------------
+Test Passed.
+"project_verify_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"project_verify_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+78/94 Testing: project_assets_python_parity
+78/94 Test: project_assets_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/project_assets_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/project_assets_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"project_assets_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+project_assets_check: add/add_bytes/resolve/exists/list/gc and Unicode paths exact
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Passed.
+"project_assets_python_parity" end time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+"project_assets_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+79/94 Testing: project_conflicts_python_parity
+79/94 Test: project_conflicts_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/project_conflicts_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/project_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"project_conflicts_python_parity" start time: Aug 24 15:15 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+project_conflicts_check: 19 groups exact
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"project_conflicts_python_parity" end time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+"project_conflicts_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+80/94 Testing: project_summaries_python_parity
+80/94 Test: project_summaries_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/project_summaries_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/project_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"project_summaries_python_parity" start time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+project_summaries_check: 21 summaries exact
+<end of output>
+Test time =   0.22 sec
+----------------------------------------------------------
+Test Passed.
+"project_summaries_python_parity" end time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+"project_summaries_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+81/94 Testing: project_roundtrip_python_parity
+81/94 Test: project_roundtrip_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/project_roundtrip_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/project_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"project_roundtrip_python_parity" start time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+project_roundtrip_check: 21 ops exact
+<end of output>
+Test time =   0.22 sec
+----------------------------------------------------------
+Test Passed.
+"project_roundtrip_python_parity" end time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+"project_roundtrip_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+82/94 Testing: project_errors_python_parity
+82/94 Test: project_errors_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/project_errors_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/project_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"project_errors_python_parity" start time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+project_errors_check: 36 load outcomes exact
+<end of output>
+Test time =   0.60 sec
+----------------------------------------------------------
+Test Passed.
+"project_errors_python_parity" end time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+"project_errors_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+83/94 Testing: project_nested_python_parity
+83/94 Test: project_nested_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/project_nested_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/project_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"project_nested_python_parity" start time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+project_nested_check: 115 nested outcomes exact
+<end of output>
+Test time =   1.56 sec
+----------------------------------------------------------
+Test Passed.
+"project_nested_python_parity" end time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+"project_nested_python_parity" time elapsed: 00:00:01
+----------------------------------------------------------
+
+84/94 Testing: project_operation_malformed_python_parity
+84/94 Test: project_operation_malformed_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/project_operation_malformed_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/project_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"project_operation_malformed_python_parity" start time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+project_operation_malformed_check: 1571 outcomes exact
+<end of output>
+Test time =  21.37 sec
+----------------------------------------------------------
+Test Passed.
+"project_operation_malformed_python_parity" end time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+"project_operation_malformed_python_parity" time elapsed: 00:00:21
+----------------------------------------------------------
+
+85/94 Testing: project_numeric_extreme_python_parity
+85/94 Test: project_numeric_extreme_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/project_numeric_extreme_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/project_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"project_numeric_extreme_python_parity" start time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+project_numeric_extreme_check: 31 outcomes exact
+<end of output>
+Test time =   0.62 sec
+----------------------------------------------------------
+Test Passed.
+"project_numeric_extreme_python_parity" end time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+"project_numeric_extreme_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+86/94 Testing: project_build_io_failure_python_parity
+86/94 Test: project_build_io_failure_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/project_build_io_failure_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/project_cli.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/lzo_compress_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"project_build_io_failure_python_parity" start time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+project_build_io_failure_check: 5 copy/write outcomes exact
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"project_build_io_failure_python_parity" end time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+"project_build_io_failure_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+87/94 Testing: project_validation_python_parity
+87/94 Test: project_validation_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/project_validation_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/project_cli.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/lzo_compress_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"project_validation_python_parity" start time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+missing-entry live: 33 ordered issues exact
+missing-entry full: 33 ordered issues exact
+existing-entry live: 25 ordered issues exact
+existing-entry full: 38 ordered issues exact
+project_validation_check: exact
+<end of output>
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"project_validation_python_parity" end time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+"project_validation_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+88/94 Testing: project_validation_retail_python_parity
+88/94 Test: project_validation_retail_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/project_validation_retail_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/project_cli.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/bf_extract.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"project_validation_retail_python_parity" start time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+PASS SoT prince_ORG.bf: entry=5/0xff024957 zone='0101_Entree' ops=24 issues=21 modes=2
+PASS WW prince2_ORG.bf: entry=7/0xff012185 zone='010_Cale' ops=24 issues=22 modes=2
+PASS T2T pop3_ORG — kopia.bf: entry=19/0xff05c7fe zone='100_Depot' ops=24 issues=22 modes=2
+project retail validation parity: 3 archive(s), 6 mode comparisons, 65 issue records exact
+<end of output>
+Test time =   7.24 sec
+----------------------------------------------------------
+Test Passed.
+"project_validation_retail_python_parity" end time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+"project_validation_retail_python_parity" time elapsed: 00:00:07
+----------------------------------------------------------
+
+89/94 Testing: project_build_retail_python_parity
+89/94 Test: project_build_retail_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/project_retail_build_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/project_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"project_build_retail_python_parity" start time: Aug 24 15:16 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+RUN project retail build parity: C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\games\Prince of Persia Sands of Time\prince_ORG.bf
+targets: gao 220054c3@ff024957, geo 220054e8@ff024957, light 300004df@ff024957
+python build: ok=True changed=1
+native build: BUILD ok=1 changed=1 appended=0 bytes=0 output=C:\Users\test\AppData\Local\Temp\projchk_60c0zsp_\cpp.bf
+archives identical (410720256 B)
+remove_object OK: GAO 220054c3 visual hidden (gro=INVALID), other entries untouched
+replace_texture OK: tex 1b001978 <- non-POT PNG (7x5 -> 8x4 DXT5), archives identical
+add_asset OK: add_texture 0x7a00b001 + add_material 0x7a00b002 into ff024957, archives identical
+raw/wol OK: replace_entry_raw ff024957 + add_zone_dependency wol ff02b674 (+2 deps), archives identical
+set_element_material OK: geo 220054e8 elem 0 -> appended slot in 6800072e, archives identical
+create_zone OK: '0101_Entree' cloned as ParityZone (+1 extra dep), archives identical (ok=1 changed=2 appended=2 bytes=3920233 output=C:\Users\test\AppData\Local\Temp\projchk_60c0zsp_\cz_cpp.bf)
+jtmod OK: export parity (created-normalized), 1 bin(s); round-trip=True
+add_object OK: cube + clone placed; repeated native and Python archives byte-identical (shared crc32 seed)
+add_object_collision OK: GAO 220054c3 in ff024957, mesh + box shapes, archives identical
+replace_mesh OK: geo 220054e8 swapped from a perturbed GLB asset, archives identical
+validate OK: 14 issue(s) verbatim-parity with build.validate; add_object LOA sim gates a bad clone source
+PASS
+RUN project retail build parity: C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\games\Prince of Persia Warrior Within\prince2_ORG.bf
+targets: gao 01002188@ff012185, geo 0100217b@ff012185, light 01003629@ff012185
+python build: ok=True changed=1
+native build: BUILD ok=1 changed=1 appended=0 bytes=0 output=C:\Users\test\AppData\Local\Temp\projchk_ha1vjyxx\cpp.bf
+archives identical (639741952 B)
+remove_object OK: GAO 01002188 visual hidden (gro=INVALID), other entries untouched
+replace_texture OK: tex 01004f3f <- non-POT PNG (7x5 -> 8x4 DXT5), archives identical
+add_asset OK: add_texture 0x7a00b001 + add_material 0x7a00b002 into ff012185, archives identical
+raw/wol OK: replace_entry_raw ff012185 + add_zone_dependency wol ff017eb1 (+2 deps), archives identical
+set_element_material OK: geo 0100217b elem 0 -> appended slot in 0100217f, archives identical
+create_zone OK: '010_Cale' cloned as ParityZone (+1 extra dep), archives identical (ok=1 changed=2 appended=2 bytes=4427716 output=C:\Users\test\AppData\Local\Temp\projchk_ha1vjyxx\cz_cpp.bf)
+jtmod OK: export parity (created-normalized), 1 bin(s); round-trip=True
+add_object OK: cube + clone placed; repeated native and Python archives byte-identical (shared crc32 seed)
+add_object_collision OK: GAO 0100b156 in ff017eb0, mesh + box shapes, archives identical
+replace_mesh OK: geo 0100217b swapped from a perturbed GLB asset, archives identical
+validate OK: 14 issue(s) verbatim-parity with build.validate; add_object LOA sim gates a bad clone source
+PASS
+RUN project retail build parity: C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\games\Prince of Persia The Two Thrones\pop3_ORG — kopia.bf
+targets: gao 0309e215@ff03e214, geo ef0143d5@ff03e214, light 8f00a3b4@ff05c7fe
+python build: ok=True changed=2
+native build: BUILD ok=1 changed=2 appended=0 bytes=0 output=C:\Users\test\AppData\Local\Temp\projchk_o4naubyo\cpp.bf
+archives identical (497424384 B)
+remove_object OK: GAO 0309e215 visual hidden (gro=INVALID), other entries untouched
+replace_texture OK: tex 30014ad9 <- non-POT PNG (7x5 -> 8x4 DXT5), archives identical
+add_asset OK: add_texture 0x7a00b001 + add_material 0x7a00b002 into ff03e214, archives identical
+raw/wol OK: replace_entry_raw ff03e214 + add_zone_dependency wol ff0b5cea (+2 deps), archives identical
+set_element_material OK: geo 057cc7f4 elem 0 -> appended slot in 13009bfa, archives identical
+create_zone OK: '100_Depot' cloned as ParityZone (+1 extra dep), archives identical (ok=1 changed=2 appended=2 bytes=2658180 output=C:\Users\test\AppData\Local\Temp\projchk_o4naubyo\cz_cpp.bf)
+jtmod OK: export parity (created-normalized), 2 bin(s); round-trip=True
+add_object OK: cube + clone placed; repeated native and Python archives byte-identical (shared crc32 seed)
+add_object_collision OK: GAO 2e004efc in ff0814f4, mesh + box shapes, archives identical
+replace_mesh OK: geo ef0143d5 swapped from a perturbed GLB asset, archives identical
+validate OK: 14 issue(s) verbatim-parity with build.validate; add_object LOA sim gates a bad clone source
+PASS
+PASS project retail build parity: 3 archive(s)
+<end of output>
+Test time = 198.40 sec
+----------------------------------------------------------
+Test Passed.
+"project_build_retail_python_parity" end time: Aug 24 15:19 Œrodkowoeuropejski czas letni
+"project_build_retail_python_parity" time elapsed: 00:03:18
+----------------------------------------------------------
+
+90/94 Testing: zone_transplant_retail_python_parity
+90/94 Test: zone_transplant_retail_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/zonetx_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/zonetx_cli.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/bf_extract.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/lzo_compress_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"zone_transplant_retail_python_parity" start time: Aug 24 15:19 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+PAIR prince_ORG.bf -> prince2_ORG.bf: 0101_Entree, deps=19, copies=10
+  plain: lines/logs/stats/archive exact
+  repeat: dynamic already-present skips exact
+  excluded: lines/logs/stats/archive exact
+  repeat: dynamic already-present skips exact
+PAIR prince2_ORG.bf -> pop3_ORG — kopia.bf: 010_Cale, deps=22, copies=18
+  plain: lines/logs/stats/archive exact
+  repeat: dynamic already-present skips exact
+  excluded: lines/logs/stats/archive exact
+  repeat: dynamic already-present skips exact
+PAIR pop3_ORG — kopia.bf -> prince_ORG.bf: 100_Depot, deps=46, copies=44
+  plain: lines/logs/stats/archive exact
+  repeat: dynamic already-present skips exact
+  excluded: lines/logs/stats/archive exact
+  repeat: dynamic already-present skips exact
+PASS zonetx retail parity: 3 game directions
+<end of output>
+Test time =  52.88 sec
+----------------------------------------------------------
+Test Passed.
+"zone_transplant_retail_python_parity" end time: Aug 24 15:20 Œrodkowoeuropejski czas letni
+"zone_transplant_retail_python_parity" time elapsed: 00:00:52
+----------------------------------------------------------
+
+91/94 Testing: zone_create_python_parity
+91/94 Test: zone_create_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/zonecreate_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/zonecreate_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"zone_create_python_parity" start time: Aug 24 15:20 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+zone_create Python parity: OK
+<end of output>
+Test time =   0.17 sec
+----------------------------------------------------------
+Test Passed.
+"zone_create_python_parity" end time: Aug 24 15:20 Œrodkowoeuropejski czas letni
+"zone_create_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+92/94 Testing: exepatch_authoring
+92/94 Test: exepatch_authoring
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/exepatch_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/tools/exepatch_cli.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/app/jade_bytepatch_stub.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/../popsot.bf"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui
+"exepatch_authoring" start time: Aug 24 15:20 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+exepatch authoring/runtime: OK
+<end of output>
+Test time =   0.84 sec
+----------------------------------------------------------
+Test Passed.
+"exepatch_authoring" end time: Aug 24 15:20 Œrodkowoeuropejski czas letni
+"exepatch_authoring" time elapsed: 00:00:00
+----------------------------------------------------------
+
+93/94 Testing: projectdoc_history_python_parity
+93/94 Test: projectdoc_history_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/../tests/projectdoc_history_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/app/projectdoc_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/app
+"projectdoc_history_python_parity" start time: Aug 24 15:20 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+projectdoc_history_check: mutation + undo/redo exact
+<end of output>
+Test time =   0.22 sec
+----------------------------------------------------------
+Test Passed.
+"projectdoc_history_python_parity" end time: Aug 24 15:20 Œrodkowoeuropejski czas letni
+"projectdoc_history_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+94/94 Testing: projectdoc_save_python_parity
+94/94 Test: projectdoc_save_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/../tests/projectdoc_save_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/app/projectdoc_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/app
+"projectdoc_save_python_parity" start time: Aug 24 15:20 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+projectdoc_save_check: 5 atomic-save outcomes exact
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"projectdoc_save_python_parity" end time: Aug 24 15:20 Œrodkowoeuropejski czas letni
+"projectdoc_save_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 24 15:20 Œrodkowoeuropejski czas letni

@@ -1,0 +1,69 @@
+Start testing: Aug 24 18:12 Œrodkowoeuropejski czas letni
+----------------------------------------------------------
+20/99 Testing: unit_assetidx
+20/99 Test: unit_assetidx
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-agent-collision/unit_assetidx.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-agent-collision
+"unit_assetidx" start time: Aug 24 18:12 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_assetidx: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_assetidx" end time: Aug 24 18:12 Œrodkowoeuropejski czas letni
+"unit_assetidx" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/99 Testing: model_import_python_parity
+49/99 Test: model_import_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/model_import_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-agent-collision/tools/model_import_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-agent-collision
+"model_import_python_parity" start time: Aug 24 18:12 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unable to use sparse matrix, falling back!
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\trimesh\geometry.py", line 396, in weighted_vertex_normals
+    return util.unitize(summed_sparse())
+                        ^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\trimesh\geometry.py", line 370, in summed_sparse
+    matrix = index_sparse(vertex_count, faces, data=face_angles.ravel())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\trimesh\geometry.py", line 472, in index_sparse
+    return scipy.sparse.coo_matrix((data, (row, col)), shape=shape, dtype=data.dtype)
+           ^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\trimesh\exceptions.py", line 35, in __getattribute__
+    raise exc_type(*exc_args)
+ModuleNotFoundError: No module named 'scipy'
+model_import_check: OK (DAE/FBX/glTF/GLB/OBJ/OFF/STL/PLY byte-identical; Unicode paths)
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"model_import_python_parity" end time: Aug 24 18:12 Œrodkowoeuropejski czas letni
+"model_import_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+80/99 Testing: project_verify_python_parity
+80/99 Test: project_verify_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/project_verify_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-agent-collision/tools/project_cli.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-agent-collision/tools/lzo_compress_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-agent-collision
+"project_verify_python_parity" start time: Aug 24 18:12 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+build: exact progress/report/failure/default-name + semantic hooks
+happy: logs=4 issues=0 exact
+corrupt: logs=1 issues=5 exact
+live validation: Python-exact cheap issue set; deep checks gated
+project_verify_check: OK
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"project_verify_python_parity" end time: Aug 24 18:12 Œrodkowoeuropejski czas letni
+"project_verify_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 24 18:12 Œrodkowoeuropejski czas letni

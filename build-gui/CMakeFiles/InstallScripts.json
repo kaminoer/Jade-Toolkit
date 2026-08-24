@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/cmake_install.cmake",
+		"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/app/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

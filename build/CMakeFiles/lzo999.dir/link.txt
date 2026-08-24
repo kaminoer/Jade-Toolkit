@@ -1,0 +1,2 @@
+J:/w64devkit/bin/ar.exe qc liblzo999.a CMakeFiles/lzo999.dir/third_party/lzo999/lzo1x_9x.c.obj CMakeFiles/lzo999.dir/third_party/lzo999/lzo999_wrap.c.obj
+J:/w64devkit/bin/ranlib.exe liblzo999.a

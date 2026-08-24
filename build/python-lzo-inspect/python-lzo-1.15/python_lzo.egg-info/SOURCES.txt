@@ -1,0 +1,15 @@
+COPYING
+MANIFEST.in
+Makefile
+NEWS
+README.md
+lzomodule.c
+pyproject.toml
+setup.py
+python_lzo.egg-info/PKG-INFO
+python_lzo.egg-info/SOURCES.txt
+python_lzo.egg-info/dependency_links.txt
+python_lzo.egg-info/top_level.txt
+tests/__init__.py
+tests/test_lzo.py
+tests/util.py

@@ -1,0 +1,35 @@
+Start testing: Aug 24 16:35 Œrodkowoeuropejski czas letni
+----------------------------------------------------------
+11/99 Testing: unit_collision
+11/99 Test: unit_collision
+Command: "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build/unit_collision.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build
+"unit_collision" start time: Aug 24 16:35 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+unit_collision: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit_collision" end time: Aug 24 16:35 Œrodkowoeuropejski czas letni
+"unit_collision" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/99 Testing: collision_helpers_python_parity
+47/99 Test: collision_helpers_python_parity
+Command: "C:/Python312/python.exe" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/tests/collision_helpers_check.py" "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build/tools/collision_helpers_cli.exe"
+Directory: C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build
+"collision_helpers_python_parity" start time: Aug 24 16:35 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+PASS collision helper/profile/framing/classification exact parity
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"collision_helpers_python_parity" end time: Aug 24 16:35 Œrodkowoeuropejski czas letni
+"collision_helpers_python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 24 16:35 Œrodkowoeuropejski czas letni

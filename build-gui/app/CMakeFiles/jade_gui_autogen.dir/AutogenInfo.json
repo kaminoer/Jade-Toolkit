@@ -1,0 +1,489 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/app/jade_gui_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/app",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/CMakeLists.txt",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeEarlyPolicyHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtInstallPaths.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6TargetsPrecheck.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtFeature.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/CheckCXXCompilerFlag.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicAndroidHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicGitHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers_v2.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomAttributionHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomBuildToolHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomCommonGenerationHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomCpeHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomCycloneDXHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomDocumentNamespaceHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomDepHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomExternalReferenceHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomFileHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomGenerationCycloneDXHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomLicenseHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomOpsHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomPurlHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomPythonHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomQtEntityHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomRelationshipHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomSystemDepHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicWindowsHelpers.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsConfigVersion.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsConfigVersionImpl.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsDependencies.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfigVersion.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfigVersionImpl.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLDependencies.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/FindVulkan.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageMessage.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageMessage.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLTargetsPrecheck.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLTargets.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLTargets-relwithdebinfo.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLAdditionalTargetInfo.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLVersionlessAliasTargets.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsTargetsPrecheck.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsTargets.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsTargets-relwithdebinfo.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsAdditionalTargetInfo.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsVersionlessAliasTargets.cmake",
+		"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/windows/app.exe.manifest.in"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/app/jade_gui_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "jade_gui_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/AddAssetsTab.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_AddAssetsTab.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/AssetBrowserTab.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_AssetBrowserTab.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/BakeLightmapsTab.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_BakeLightmapsTab.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/BinPickerDialog.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_BinPickerDialog.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/BoneMapView.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_BoneMapView.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/BoneRemapDialog.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_BoneRemapDialog.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/CreateZoneTab.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_CreateZoneTab.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/EditZoneDepsTab.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_EditZoneDepsTab.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/ElementThumb.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_ElementThumb.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/ExePatchDialog.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_ExePatchDialog.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/JtmodDialog.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_JtmodDialog.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/LevelBlenderTab.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_LevelBlenderTab.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/MainWindow.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_MainWindow.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/MaterialFlagsDialog.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_MaterialFlagsDialog.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/MaterialPickerDialog.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_MaterialPickerDialog.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/MeshPreview.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_MeshPreview.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/MeshSwapTab.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_MeshSwapTab.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/PlacementTab.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_PlacementTab.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/PlacementViewport.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_PlacementViewport.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/PreviewPanel.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_PreviewPanel.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/ProjectDoc.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_ProjectDoc.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/ProjectPanel.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_ProjectPanel.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/TexturePickerDialog.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_TexturePickerDialog.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/TextureSwapTab.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_TextureSwapTab.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/Theme.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_Theme.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/Tooltips.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_Tooltips.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/Viewer3D.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_Viewer3D.cpp",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/ZonesTab.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_ZonesTab.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/app/jade_gui_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/app/jade_gui_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"MINGW_HAS_SECURE_API=1",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NEEDS_QMAIN",
+		"QT_NO_DEBUG",
+		"QT_OPENGLWIDGETS_LIB",
+		"QT_OPENGL_LIB",
+		"QT_WIDGETS_LIB",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/include",
+		"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/third_party",
+		"C:/Qt/6.11.1/mingw_64/include/QtCore",
+		"C:/Qt/6.11.1/mingw_64/include",
+		"C:/Qt/6.11.1/mingw_64/mkspecs/win32-g++",
+		"C:/Qt/6.11.1/mingw_64/include/QtWidgets",
+		"C:/Qt/6.11.1/mingw_64/include/QtGui",
+		"C:/Qt/6.11.1/mingw_64/include/QtOpenGLWidgets",
+		"C:/Qt/6.11.1/mingw_64/include/QtOpenGL",
+		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++",
+		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32",
+		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward",
+		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include",
+		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed",
+		"C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [ "-DWIN32" ],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Qt/Tools/mingw1310_64/bin/g++.exe",
+		"-std=c++17",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/app/jade_gui_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 16,
+	"PARSE_CACHE_FILE" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/app/CMakeFiles/jade_gui_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/6.11.1/mingw_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 11,
+	"SETTINGS_FILE" : "C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/build-gui/app/CMakeFiles/jade_gui_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/AddAssetsTab.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/AssetBrowserTab.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/BakeLightmapsTab.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/BinPickerDialog.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/BoneMapView.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/BoneRemapDialog.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/CreateZoneTab.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/EditZoneDepsTab.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/ElementThumb.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/ExePatchDialog.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/JtmodDialog.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/LevelBlenderTab.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/MainWindow.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/MaterialFlagsDialog.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/MaterialPickerDialog.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/MeshPreview.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/MeshSwapTab.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/PlacementTab.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/PlacementViewport.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/PreviewPanel.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/ProjectDoc.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/ProjectPanel.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/TexturePickerDialog.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/TextureSwapTab.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/Theme.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/Tooltips.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/Viewer3D.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/ZonesTab.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/test/Desktop/tinkering/RM4+JadeSrc/jade_native/app/main.cpp",
+			"Mu",
+			null
+		]
+	],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
