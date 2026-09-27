@@ -1,3 +1,5 @@
+This repo is archived as of September 2026. [New tools coming...](https://github.com/kaminoer/jadestudio)
+
 <img width="1656" height="869" alt="toolkit" src="https://github.com/user-attachments/assets/9edb6142-4506-4ce4-bfcd-6ac36479b5d6" />
 
 A little backstory. I originally wrote this toolkit in Python since that's how I first started messing with the trilogy, just some loose scripts. Eventually I built the toolkit around those scripts. Now it outlived its purpose and I started a C++ rewrite but got burnt out and used AI to finish the work. This is the C++ version of the toolkit that AI created from my Python.
